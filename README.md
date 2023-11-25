@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nadeem Khan from Pakistan
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning concepts of computational drug design and reverse vaccinology
+- 📫 You can reach me by sending me an email at "nadeemkhanf577977@gmail.com
